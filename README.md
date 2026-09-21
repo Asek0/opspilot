@@ -6,7 +6,7 @@ Users define business rules that react to events and execute configured actions.
 
 ## Status
 
-🚧 Version 1 — MVP in development.
+Version 1 — MVP in development.
 
 ## Planned core flow
 
