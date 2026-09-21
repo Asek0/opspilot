@@ -2,23 +2,24 @@
 
 OpsPilot is an event-driven business automation platform.
 
-Users define business rules that react to events and execute configured actions.
+The system allows users to define rules that react to business events, evaluate conditions, and execute configured actions.
 
-## Status
+## Project status
 
-🚧 Version 1 — MVP in development.
+Version 1 (MVP) is under active development.
 
-## Planned core flow
+## Core flow
 
-Event → Rule → Condition → Action → Execution
+Event -> Rule -> Condition -> Action -> Execution
 
-## Tech stack
+## Technology stack
+
+Current:
 
 - Python
 - Django
 - SQLite
 - pytest
 - Ruff
-- Docker
 
-More components will be introduced incrementally as the project evolves.
+Planned components will be introduced incrementally as the project evolves.
